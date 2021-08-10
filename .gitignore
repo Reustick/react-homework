@@ -1,11 +1,8 @@
+node_modules
 .history
 .vscode
-node_modules/
 dist
-storybook-static
 .idea
 coverage
 reports
-# stryker temp files
-.stryker-tmp
 .DS_Store
